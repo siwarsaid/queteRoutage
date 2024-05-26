@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\siwar\\QueteRoutage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5840568A-599F-446A-8F6B-7246D9AE30F9}|QueteRoutage\\QueteRoutage.csproj|d:\\siwar\\queteroutage\\queteroutage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5840568A-599F-446A-8F6B-7246D9AE30F9}|QueteRoutage\\QueteRoutage.csproj|solutionrelative:queteroutage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5840568A-599F-446A-8F6B-7246D9AE30F9}|QueteRoutage\\QueteRoutage.csproj|d:\\siwar\\queteroutage\\queteroutage\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5840568A-599F-446A-8F6B-7246D9AE30F9}|QueteRoutage\\QueteRoutage.csproj|solutionrelative:queteroutage\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\siwar\\QueteRoutage\\QueteRoutage\\Program.cs",
+              "RelativeDocumentMoniker": "QueteRoutage\\Program.cs",
+              "ToolTip": "D:\\siwar\\QueteRoutage\\QueteRoutage\\Program.cs",
+              "RelativeToolTip": "QueteRoutage\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:01:00.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "D:\\siwar\\QueteRoutage\\QueteRoutage\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "QueteRoutage\\Controllers\\HelloController.cs",
+              "ToolTip": "D:\\siwar\\QueteRoutage\\QueteRoutage\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "QueteRoutage\\Controllers\\HelloController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:00:25.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
