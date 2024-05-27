@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QueteRoutage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d300896d0cf64a1ac5b60f9d0147e0bd5efced8")]
 [assembly: System.Reflection.AssemblyProductAttribute("QueteRoutage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QueteRoutage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
